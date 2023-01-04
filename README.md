@@ -1,2 +1,8 @@
 # NPR-and-FR-system-for-a-University
-A Number Plate Recognition and Facial Recognition System for a University (Use Case Diagram, Class Diagram and Report)
+A Number Plate Recognition and Facial Recognition System for a University 
+
+Includes:
+
+1. Use Case Diagram
+2. Class Diagram
+3. Report
